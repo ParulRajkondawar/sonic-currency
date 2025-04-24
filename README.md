@@ -29,7 +29,7 @@ What if Spotify tracks were digital collectibles?
 - **Python** with `Spotipy` (Spotify API integration)
 - **Pandas** (data prep & scoring logic)
 - **ChatGPT** (manual batch NFT description generation)
-- **Spotify 160k Dataset** ([Kaggle](https://www.kaggle.com/datasets/fcpercival/160k-spotify-songs))
+- **Spotify API** (song data)
 
 ---
 
@@ -88,6 +88,6 @@ Each song is scored using:
 **Parul Rajkondawar**  
 🎓 MS in Information Technology & Management  
 📍 University of Texas at Dallas  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-link) | [GitHub](https://github.com/your-github)
+🔗 [LinkedIn](https://www.linkedin.com/in/parul-rajkondawar) | [GitHub](https://github.com/ParulRajkondawar)
 
 ---
